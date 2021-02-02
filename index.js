@@ -1,6 +1,6 @@
 /*
 * Tambahin nama author lah
-* Author MhankBarBar, Farhan
+* Author Mas Bambang
 * Tambahin ya Cape Gan ngefix² Yg Ga work
 * Jan numpang nama doank
 
@@ -59,8 +59,8 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Creator FXC7;\n'
+            + 'FN:BTR BOT\n'
+            + 'ORG:Creator BTR BOT;\n'
             + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
             + 'END:VCARD'
 
@@ -189,10 +189,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"628311800241@s.whatsapp.net"
+			"6282313021398@s.whatsapp.net"
 			]
 			premium = [
-			"628311800241@s.whatsapp.net"
+			"13312765614@s.whatsapp.net"
 			]
 			
 			const apakahh = [
