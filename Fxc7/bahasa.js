@@ -52,6 +52,7 @@ List Bahasa Untuk Command *${prefix}tts*
   tr: Turkish
   vi: Vietnamese
   cy: Welsh
+  ml: Malayalam
 `
 }
 exports.bahasa = bahasa
